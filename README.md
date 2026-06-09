@@ -6,7 +6,7 @@
 * **Bölüm:** Bilgisayar Programcılığı
 * **Üniversite:** Piri Reis Üniversitesi
 * **Ders:** MTH2005 Yazılım Test ve Kalitesi
-* **Öğretim Görevlileri:** Erkan SARIKAYA & Emrah SARIÇİÇEK
+* **Öğretim Görevlisi Emrah SARIÇİÇEK
 * **Teslim Tarihi:** 09/06/2026
 
 ---
