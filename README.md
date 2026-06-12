@@ -7,7 +7,7 @@
 * **Üniversite:** Piri Reis Üniversitesi
 * **Ders:** MTH2005 Yazılım Test ve Kalitesi
 * **Öğretim Görevlisi** Emrah SARIÇİÇEK
-* **Teslim Tarihi:** 09/06/2026
+* **Teslim Tarihi:** 12/06/2026
 
 ---
 
